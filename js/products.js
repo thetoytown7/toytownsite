@@ -182,9 +182,9 @@ const products = [
     badge: null
   },
   {
-    id: "dog-pet",
-    name: "Dog Pet",
-    price: "RS 2,500",
+    id: "white-husky-dog",
+    name: "White Husky Dog",
+    price: "RS 4,999",
     category: "fun",
     images: ["dog-pet.jpg", "dog-pet-2.jpg", "dog-pet-3.jpg"],
     badge: null
